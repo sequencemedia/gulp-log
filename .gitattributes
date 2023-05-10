@@ -2,11 +2,14 @@
 * text=auto
 
 # LF line endings
+*.yaml text eol=lf
+*.yml text eol=lf
 *.json text eol=lf
 *.mjs text eol=lf
 *.cjs text eol=lf
 *.mts text eol=lf
 *.cts text eol=lf
+*.md text eol=lf
 .editorconfig text eol=lf
 .eslintignore text eol=lf
 .eslintrc text eol=lf
