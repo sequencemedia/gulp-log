@@ -51,5 +51,8 @@
   ],
   "imports": {
     "#gulp-log": "./index.mjs"
+  },
+  "exports": {
+    ".": "./index.mjs"
   }
 }
