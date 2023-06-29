@@ -22,7 +22,7 @@
   },
   "repository": "sequencemedia/gulp-log",
   "scripts": {
-    "lint": "eslint . test --ext .mjs --ext .cjs",
+    "lint": "eslint . test --ext .mjs,.cjs",
     "lint:fix": "npm run lint -- --fix",
     "test": "mocha -b --recursive test",
     "prepare": "husky install"
@@ -34,7 +34,7 @@
     "@babel/core": "^7.22.5",
     "@babel/eslint-parser": "^7.22.5",
     "@babel/preset-env": "^7.22.5",
-    "@sequencemedia/hooks": "^1.0.435",
+    "@sequencemedia/hooks": "^1.0.436",
     "chai": "^4.3.7",
     "eslint": "^8.43.0",
     "eslint-config-standard": "^17.1.0",
