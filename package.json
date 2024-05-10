@@ -39,7 +39,7 @@
     "@babel/eslint-parser": "^7.24.5",
     "@babel/preset-env": "^7.24.5",
     "@sequencemedia/hooks": "^1.0.490",
-    "chai": "^5.1.0",
+    "chai": "^5.1.1",
     "eslint": "8.57.0",
     "eslint-config-standard": "^17.1.0",
     "husky": "^9.0.11",
