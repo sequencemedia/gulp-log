@@ -28,8 +28,8 @@
   "scripts": {
     "lint": "eslint . test --ext .mjs,.cjs",
     "lint:fix": "npm run lint -- --fix",
-    "test": "mocha -b --recursive test",
-    "prepare": "husky"
+    "prepare": "husky",
+    "test": "mocha -b --recursive test"
   },
   "dependencies": {
     "sparkles": "^2.1.0"
@@ -38,7 +38,7 @@
     "@babel/core": "^7.24.6",
     "@babel/eslint-parser": "^7.24.6",
     "@babel/preset-env": "^7.24.6",
-    "@sequencemedia/hooks": "^1.0.491",
+    "@sequencemedia/hooks": "^1.0.492",
     "chai": "^5.1.1",
     "eslint": "8.57.0",
     "eslint-config-standard": "^17.1.0",
