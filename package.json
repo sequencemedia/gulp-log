@@ -35,9 +35,9 @@
     "sparkles": "^2.1.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.24.6",
-    "@babel/eslint-parser": "^7.24.6",
-    "@babel/preset-env": "^7.24.6",
+    "@babel/core": "^7.24.7",
+    "@babel/eslint-parser": "^7.24.7",
+    "@babel/preset-env": "^7.24.7",
     "@sequencemedia/hooks": "^1.0.494",
     "chai": "^5.1.1",
     "eslint": "8.57.0",
