@@ -1,6 +1,6 @@
 {
   "name": "@sequencemedia/gulp-log",
-  "version": "1.0.332",
+  "version": "1.0.333",
   "description": "The logger for Gulp",
   "keywords": [
     "global",
